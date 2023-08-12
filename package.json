@@ -1,0 +1,22 @@
+{
+  "name": "vue-2",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0",
+    "vue": "^2.7.7",
+    "vue-color": "^2.8.1",
+    "vue-router": "^3.5.4",
+    "vue-smooth-dnd": "^0.8.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-legacy": "^2.0.0",
+    "@vitejs/plugin-vue2": "^1.1.2",
+    "terser": "^5.14.2",
+    "vite": "^3.0.2"
+  }
+}
